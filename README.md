@@ -1,13 +1,13 @@
-Name: Yahia Elhag
+Name: _Yahia Elhag_
 
 Email: yahiae6643@hstat.org
 
 School: HSTAT
 
-Yahia Elhag is a 16 year old teenage who was born from North Sudan and later moved to the U.S. at a young age. 
-He has a interest of Photoshop, Chemistry, and Code. He thrives to be #1 in all of his classes.
+**_Yahia Elhag is a 16 year old teenage who was born from North Sudan and later moved to the U.S. at a young age._**
+**_He has a interest of Photoshop, Chemistry, and Code. He thrives to be #1 in all of his classes._**
 
-Schedule:
+**Schedule:**
 
 Period 1: AP Chemistry LAB
 
