@@ -18,7 +18,7 @@
 
 ---
 ## Previous Work:
-![Hangman v2][Made in 10th grade]
+
 ##  Schedule: 
 
 ```
@@ -34,3 +34,4 @@ Period 8: Spanish 3
 
 ---
 
+![Thanks for reading!](https://raw.githubusercontent.com/yahiae6643/about-me/master/image/25-sales-interview-questions-to-recruit-superstar-reps-64-638.jpg)
