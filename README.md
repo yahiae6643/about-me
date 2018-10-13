@@ -5,11 +5,13 @@
 **School**: HSTAT
 
 **Yahia Elhag is a 16 year old teenage who was born from _North Sudan_ and later moved to the U.S. at a young age.**  
-_He tries to be the best at his classes while improving his thinking skills_.
+
 
 
 * __He has a somewhat of strange personality and behavior, but fun to be talk too sometimes.__
-    * _He can talk alot at times_, so make sure to limit his speaking so others can have a chance  
+    * _He can talk alot at times_, so make sure to limit his speaking so others can have a chance 
+* __He tries to be the best at his classes while improving his thinking skills__. 
+    * _No matter the time, he will try to help you if you're in need of it_   
     
 
 ---
